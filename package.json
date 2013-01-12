@@ -1,0 +1,24 @@
+{
+  "name": "kraken-client",
+  "description": "A client for the Kraken pubsub server",
+  "version": "0.1.0",
+  "author": "Kris Rasmussen",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "mc": "1.0.6"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Asana/kraken-node-client.git"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "Kraken",
+    "pubsub"
+  ]
+}
