@@ -1,10 +1,10 @@
 {
   "name": "kraken-client",
   "description": "A client for the Kraken pubsub server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Kris Rasmussen",
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/kraken.js",
   "dependencies": {
     "mc": "1.0.6"
   },
