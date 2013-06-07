@@ -1,7 +1,7 @@
 {
   "name": "kraken-client",
   "description": "A client for the Kraken pubsub server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Kris Rasmussen",
   "license": "MIT",
   "main": "lib/kraken.js",
