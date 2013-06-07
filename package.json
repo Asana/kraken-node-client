@@ -16,6 +16,7 @@
     "url": "git@github.com:Asana/kraken-node-client.git"
   },
   "scripts": {
+    "test": "./node_modules/.bin/mocha $(find test -iname '*.js')"
   },
   "keywords": [
     "Kraken",

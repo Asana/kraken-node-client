@@ -1,4 +1,4 @@
-var Kraken = require("lib/kraken");
+var Kraken = require("../../lib/kraken");
 var assert = require("assert");
 
 describe("KrakenClient", function() {
