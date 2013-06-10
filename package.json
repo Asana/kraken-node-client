@@ -1,12 +1,12 @@
 {
   "name": "kraken-client",
   "description": "A client for the Kraken pubsub server",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Kris Rasmussen",
   "license": "MIT",
   "main": "lib/kraken.js",
   "dependencies": {
-    "memcaching": "0.0.1"
+    "memcaching": "~> 0.0.2"
   },
   "devDependencies": {
     "mocha": "*"
