@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/kraken.js",
   "dependencies": {
-    "memcaching": "~> 0.0.2"
+    "memcaching": "~0.4.3"
   },
   "devDependencies": {
     "mocha": "*"
